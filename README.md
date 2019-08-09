@@ -45,7 +45,8 @@ Print and bring the document next August 15th (wednesday) to discuss in the clas
 
 We extend the invitation to the seminar:
 
-![width='80%'](figs/CTIM_2019_I.jpeg)
+![width='40%'](figs/CTIM_2019_I.jpeg)
+**Figure 1**: CTIM seminar 2019 I. 
 
 <!--
 \centering
