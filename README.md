@@ -41,5 +41,19 @@ To start you have to read the next papers:
 Now you have to write a report (nice document!) about the importance and the impact of the software in the actual world. 
 Print and bring the document next August 15th (wednesday) to discuss in the class. :+1: 
 
+## Activities
+
+We extend the invitation to the seminar:
+
+![width='80%'](figs/CTIM_2019_I.jpeg)
+
+<!--
+\centering
+![width='80%'](figs/CTIM_2019_I.jpeg)
+\raggedright
+\tableofcontents
+\clearpage
+-->
+
 ## Referencias
 1. Ir [:link:](http://www.mis-algoritmos.com/)
