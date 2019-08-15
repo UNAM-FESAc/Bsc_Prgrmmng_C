@@ -8,10 +8,10 @@ This is a repository for the programming course 2019-I in FESAc.
 
 1. [Material](#material)
 2. [Homework](#homework)
-3. [About PGA](#about pga)
+3. [About GPA](#aboutgpa)
 4. [Activities](#activities)
 
-5. [Referencias](#Referencias)
+5. [Referencias](#referencias)
 
 
 
@@ -43,7 +43,7 @@ Print and bring the document next August 15th (wednesday) to discuss in the clas
 --->
 
 
-## About PGA <a name="about pga"></a>
+## About GPA <a name="aboutgpa"></a>
 Remember professor is not a :cop:, professor is a advisor who wants to discover differents things about 
 programming.
 
@@ -71,7 +71,7 @@ We extend the invitation to the seminar:
 \clearpage
 -->
 
-## Referencias <a name="introduction"></a>
+## Referencias <a name="referencias"></a>
 1. Ir [:link:](http://www.mis-algoritmos.com/)
 
 2. Ir [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)
