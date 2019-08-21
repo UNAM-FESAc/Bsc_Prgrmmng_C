@@ -5,7 +5,7 @@ conceptos del tema **tipos de datos**
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
-## Tabla de Contenido(#TablaDeContenido)
+## Tabla de Contenido
 1. [Ejercicios](#ejercicios)
 2. [Referencias](#referencias)
 
