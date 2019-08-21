@@ -1,11 +1,11 @@
-# [Laboratorio: Tipos de datos]<a name="LabTiposDeDatos"></a>
+# Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
 conceptos del tema **tipos de datos**
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
-## [Tabla de Contenido](#TablaDeContenido)
+## Tabla de Contenido(#TablaDeContenido)
 1. [Ejercicio 1](#ejercicios)
 2. [Referencias](#referencias)
 
@@ -15,7 +15,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 5. [Ejercicio 5](#Ejer5)
 --->
 
-# [Ejercicios]<a name="ejercicios"></a>
+# Ejercicios<a name="ejercicios"></a>
   
 1. Modifica el archivo 06Ex_int_exercise.c 
 [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) para que sea del tipo de dato sea:
@@ -48,7 +48,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
      hermanos totales que somos (incluyendonos a nosotros).
 
 
-### [Referencias]<a name="referencias"></a>
+### Referencias<a name="referencias"></a>
 1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
 
 2. Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
