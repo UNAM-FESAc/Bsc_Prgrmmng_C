@@ -1,4 +1,4 @@
-# [Laboratorio: Tipos de datos](#LabTiposDeDatos)
+# [Laboratorio: Tipos de datos]<a name="LabTiposDeDatos"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
 conceptos del tema **tipos de datos**
@@ -58,7 +58,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 4. Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
 
 
-#### [Volver al inicio]<a name="LabTiposDeDatos"></a>
+#### [Volver al inicio](#LabTiposDeDatos)
 
 <!---
 https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html
