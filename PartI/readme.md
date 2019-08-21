@@ -1,34 +1,64 @@
-# Ejercicios en Clase
+# Laboratorio: Tipos de datos
+
+Los siguientes ejercicios tiene como propÅÛsito revisar y repasar los 
+conceptos del tema **tipos de datos**
+
+En las siguientes lÅÌneas encuentras la tabla de contenido de esta carpeta.
+
+## [Tabla de Contenido](#TablaDeContenido)
+1. [Ejercicio 1](#ejercicios)
+2. [Referencias](#referencias)
+
+<!---
+
+4. [Ejercicio 4](#Ejer4)
+5. [Ejercicio 5](#Ejer5)
+--->
+
+# [Ejercicios]<a name="ejercicios"></a>
+  
+1. Modifica el archivo 06Ex_int_exercise.c 
+[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) para que sea del tipo de dato sea:
+- *char*
+- *float*
+- *double*.
+
+2. Realiza una declaraciÅÛn de variables para las
+  siguientes propuestas de programas. Indica cuÅ·l serÅÌa
+  la declaraciÅÛn de variables y Escribe los programas.
+
+     - Un programa (terminal punto de venta de una ferreterÅÌa) 
+     que trabaja con tres valores (interruptores) que activan 
+     un estado u otro segÅ˙n sea el caso:
+     	- La utilidad del primero es indicar si las unidades de 
+     	medida de los tornillos estÅ·n expresadas en el sistema internacional 
+     	o sistema britÅ·nico (inglÅÈs-anglosajÅÛn) de medidas.
+     	- La utilidad del segundo es calcular el precio, de los tornillos 
+     	a travÅÈs de la masa (peso). 
+     	- La utilidad del tercero es calcular el precio por objeto vendido.
+
+     - Un programa que dado el precio del dÅÛlar en una jornada 
+     calcule el precio y las fluctuaciones en diferentes monedas.
+
+     - Un programa que muestra la altura de una puerta con la mayor precisiÅÛn posible 
+     (usa el teorema de PitÅ·goras).
+     
+     - Un programa que nos pregunta el nÅ˙mero de hermanos que tenemos
+     (sin incluirnos a nosotros mismos) y nos muestra el nÅ˙mero de
+     hermanos totales que somos (incluyÅÈndonos a nosotros).
 
 
-1. Modifica el archivo 06Ex_int_exercise.c [(:link:)](https://github.com/UNAM-FESAc/c-prgrmmng-I-FESAc/blob/master/PartIII_0/06Ex_int_exercise.c) para que el tipo de dato sea *char, float* y *double*.
+### Referencias]<a name="referencias"></a>
+1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
 
-2. Realiza una declaraci√≥n de variables para las
-  siguientes propuestas de programas. Indica cu√°l ser√≠a
-  la declaraci√≥n de variables y Escribe los programas.
+2. LÅÈxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
 
-	- Un programa que trabaja con tres valores interruptores.
-     	La utilidad del primero es indicar si las unidades de
-     	trabajo est√°n expresadas en el sistema internacional.
-     	La utilidad del segundo es indicar si el c√°lculo es
-     	determinista o no determinista. La utilidad del tercero es
-     	indicar si se deben mostrar todos los resultados o solo un resumen de resultados.
+3. Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
 
-	- Un programa que dado el radio de una esfera obtenga el valor de volumen de la misma.
+4. Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
 
-	- Un programa que muestra la altura de una puerta con la mayor precisi√≥n posible 
-	(usa el teorema de Pit√°goras).
+Volver al inicio <a name="TablaDeContenido"></a>
 
-	- Un programa que nos pregunta el n√∫mero de hermanos que tenemos
-   	(sin incluirnos a nosotros mismos) y nos muestra el n√∫mero de
-   	hermanos totales que somos (incluy√©ndonos a nosotros).
-
-
-### Referencias
-- Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
-
-- L√©xico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
-
-- Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
-
-- Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
+<!---
+https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html
+--->

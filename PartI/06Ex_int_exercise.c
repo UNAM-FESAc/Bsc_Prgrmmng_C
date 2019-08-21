@@ -7,7 +7,7 @@ int main(){
 
   short int a = 2;
   int b =sizeof(a); 
-  printf("salida %i. El tamanio es: %i \n", a, b);
+  printf("salida %i. El tamanio es: %i Bytes\n", a, b);
 
   
   return 0;
