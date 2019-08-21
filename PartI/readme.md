@@ -1,9 +1,9 @@
-# Laboratorio: Tipos de datos
+# [Laboratorio: Tipos de datos](#LabTiposDeDatos)
 
-Los siguientes ejercicios tiene como propósito revisar y repasar los 
+Los siguientes ejercicios tiene como propÃ³sito revisar y repasar los 
 conceptos del tema **tipos de datos**
 
-En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+En las siguientes lÃ­neas encuentras la tabla de contenido de esta carpeta.
 
 ## [Tabla de Contenido](#TablaDeContenido)
 1. [Ejercicio 1](#ejercicios)
@@ -23,41 +23,42 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 - *float*
 - *double*.
 
-2. Realiza una declaración de variables para las
-  siguientes propuestas de programas. Indica cuál sería
-  la declaración de variables y Escribe los programas.
+2. Realiza una declaraciÃ³n de variables para las
+  siguientes propuestas de programas. Indica cuÃ¡l serÃ¡
+  la declaraciÃ³n de variables y Escribe los programas.
 
-     - Un programa (terminal punto de venta de una ferretería) 
+     - Un programa (terminal punto de venta de una ferreterÃ­a) 
      que trabaja con tres valores (interruptores) que activan 
-     un estado u otro según sea el caso:
+     un estado u otro segÃºn sea el caso:
      	- La utilidad del primero es indicar si las unidades de 
-     	medida de los tornillos están expresadas en el sistema internacional 
-     	o sistema británico (inglés-anglosajón) de medidas.
+     	medida de los tornillos estÃ¡n expresadas en el sistema internacional 
+     	o sistema britÃ¡nico (inglÃ©s-anglosajÃ³n) de medidas.
      	- La utilidad del segundo es calcular el precio, de los tornillos 
-     	a través de la masa (peso). 
+     	a travÃ©s de la masa (peso). 
      	- La utilidad del tercero es calcular el precio por objeto vendido.
 
-     - Un programa que dado el precio del dólar en una jornada 
+     - Un programa que dado el precio del dÃ³lar en una jornada 
      calcule el precio y las fluctuaciones en diferentes monedas.
 
-     - Un programa que muestra la altura de una puerta con la mayor precisión posible 
-     (usa el teorema de Pitágoras).
+     - Un programa que muestra la altura de una puerta con la mayor precisiÃ³n posible 
+     (usa el teorema de PitÃ¡goras).
      
-     - Un programa que nos pregunta el número de hermanos que tenemos
-     (sin incluirnos a nosotros mismos) y nos muestra el número de
-     hermanos totales que somos (incluyéndonos a nosotros).
+     - Un programa que nos pregunta el nÃºmero de hermanos que tenemos
+     (sin incluirnos a nosotros mismos) y nos muestra el nÃºmero de
+     hermanos totales que somos (incluyendonos a nosotros).
 
 
-### Referencias]<a name="referencias"></a>
+### [Referencias]<a name="referencias"></a>
 1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
 
-2. Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
+2. LÃ©xico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
 
 3. Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
 
 4. Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
 
-Volver al inicio <a name="TablaDeContenido"></a>
+
+#### [Volver al inicio]<a name="LabTiposDeDatos"></a>
 
 <!---
 https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html
