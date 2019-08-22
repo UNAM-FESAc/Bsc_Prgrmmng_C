@@ -15,10 +15,11 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 5. [Ejercicio 5](#Ejer5)
 --->
 
-# Ejercicios<a name="ejercicios"></a>
+### Ejercicios<a name="ejercicios"></a>
   
-1. Modifica el archivo 06Ex_int_exercise.c 
-[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) para que sea del tipo de dato sea:
+1. *06Ex_int_exercise.c* Modifica el archivo  
+[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
+los siguientes tipos de datos:
 - *char*
 - *float*
 - *double*.

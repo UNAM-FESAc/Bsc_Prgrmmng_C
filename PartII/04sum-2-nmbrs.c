@@ -1,13 +1,6 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-/*
-Las siguientes lineas contienen un programa para realizar la suma de dos 
-numeros.
-Analicemos cada linea.
-
-*/
-
 #include<stdio.h>
 
 int main(){
