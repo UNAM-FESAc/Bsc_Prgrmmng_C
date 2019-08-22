@@ -89,5 +89,5 @@ Investigar por qué la funcion gets es peligrosa.
 14. *14conver-exp.c* Implementa un ejemplo donde realices una conversion de tipo 
 de dato.
 
-#### [Volver al inicio](#LabLabImpDeCod)
+#### [Volver al inicio](#LabImpDeCod)
 
