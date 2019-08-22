@@ -1,34 +1,65 @@
-# Ejercicios en Clase
+# Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
 
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **tipos de datos**
 
-1. Modifica el archivo 06Ex_int_exercise.c [(:link:)](https://github.com/UNAM-FESAc/c-prgrmmng-I-FESAc/blob/master/PartIII_0/06Ex_int_exercise.c) para que el tipo de dato sea *char, float* y *double*.
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Ejercicios](#ejercicios)
+2. [Referencias](#referencias)
+
+<!---
+
+4. [Ejercicio 4](#Ejer4)
+5. [Ejercicio 5](#Ejer5)
+--->
+
+# Ejercicios<a name="ejercicios"></a>
+  
+1. Modifica el archivo 06Ex_int_exercise.c 
+[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) para que sea del tipo de dato sea:
+- *char*
+- *float*
+- *double*.
 
 2. Realiza una declaración de variables para las
-  siguientes propuestas de programas. Indica cuál sería
+  siguientes propuestas de programas. Indica cuál será
   la declaración de variables y Escribe los programas.
 
-	- Un programa que trabaja con tres valores interruptores.
-     	La utilidad del primero es indicar si las unidades de
-     	trabajo están expresadas en el sistema internacional.
-     	La utilidad del segundo es indicar si el cálculo es
-     	determinista o no determinista. La utilidad del tercero es
-     	indicar si se deben mostrar todos los resultados o solo un resumen de resultados.
+     - Un programa (terminal punto de venta de una ferretería) 
+     que trabaja con tres valores (interruptores) que activan 
+     un estado u otro según sea el caso:
+     	- La utilidad del primero es indicar si las unidades de 
+     	medida de los tornillos están expresadas en el sistema internacional 
+     	o sistema británico (inglés-anglosajón) de medidas.
+     	- La utilidad del segundo es calcular el precio, de los tornillos 
+     	a través de la masa (peso). 
+     	- La utilidad del tercero es calcular el precio por objeto vendido.
 
-	- Un programa que dado el radio de una esfera obtenga el valor de volumen de la misma.
+     - Un programa que dado el precio del dólar en una jornada 
+     calcule el precio y las fluctuaciones en diferentes monedas.
 
-	- Un programa que muestra la altura de una puerta con la mayor precisión posible 
-	(usa el teorema de Pitágoras).
+     - Un programa que muestra la altura de una puerta con la mayor precisión posible 
+     (usa el teorema de Pitágoras).
+     
+     - Un programa que nos pregunta el número de hermanos que tenemos
+     (sin incluirnos a nosotros mismos) y nos muestra el número de
+     hermanos totales que somos (incluyendonos a nosotros).
 
-	- Un programa que nos pregunta el número de hermanos que tenemos
-   	(sin incluirnos a nosotros mismos) y nos muestra el número de
-   	hermanos totales que somos (incluyéndonos a nosotros).
+
+### Referencias<a name="referencias"></a>
+1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
+
+2. Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
+
+3. Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
+
+4. Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
 
 
-### Referencias
-- Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
+#### [Volver al inicio](#LabTiposDeDatos)
 
-- Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
-
-- Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
-
-- Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
+<!---
+https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html
+--->
