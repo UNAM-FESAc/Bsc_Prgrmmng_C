@@ -1,4 +1,4 @@
-# Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
+# Laboratorio: Implementación de Códigos Básicos<a name="LabImpDeCod"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
 conceptos del tema **implementación de códigos básicos**
@@ -88,4 +88,6 @@ Investigar por qué la funcion gets es peligrosa.
 
 14. *14conver-exp.c* Implementa un ejemplo donde realices una conversion de tipo 
 de dato.
+
+#### [Volver al inicio](#LabLabImpDeCod)
 

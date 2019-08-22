@@ -1,4 +1,4 @@
-# Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
+# Laboratorio:Estructuras de Control<a name="LabEstrDeContr"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
 conceptos del tema **estructuras de control**
@@ -112,5 +112,7 @@ los operadores de incremento y reducción (decrement).
 
 2. Ir a programavideojuegos[:link:](http://programavideojuegos.blogspot.com/2013/05/25-ejercicios-resueltos-de-estructuras.html)
 
+
+#### [Volver al inicio](#LabLabEstrDeContr)
 
 
