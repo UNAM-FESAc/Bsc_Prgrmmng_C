@@ -6,21 +6,20 @@ conceptos del tema **tipos de datos**
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
 ## Tabla de Contenido
-1. [Ejercicios](#ejercicios)
-2. [Referencias](#referencias)
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Referencias](#referencias)
 
-<!---
 
-4. [Ejercicio 4](#Ejer4)
-5. [Ejercicio 5](#Ejer5)
---->
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
-<<<<<<< HEAD
-# Ejercicios<a name="ejercicios"></a>
-  
-1. Modifica el archivo 06Ex_int_exercise.c 
-[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) para que sea del tipo de dato sea:
-=======
+Debes realizar un informe de laboratorio que contenga información sobre la 
+lista de ejercicios que aparecen en esta sección. El formato para el informe 
+debe seguir el que se muestra en el siguiente archivo:
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
+puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
+Coloca tu documento (PDF) en tu dropbox.
+
 ### Ejercicios<a name="ejercicios"></a>
   
 1. *06Ex_int_exercise.c* Modifica el archivo  

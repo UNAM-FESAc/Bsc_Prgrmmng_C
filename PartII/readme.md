@@ -24,11 +24,6 @@ puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
 Coloca tu documento (PDF) en tu dropbox.
 
 
-<!---
-	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
---->
-
 ### Ejercicios<a name="ejercicios"></a>
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
