@@ -72,17 +72,17 @@ We extend the invitation to the seminar:
 -->
 
 ## Referencias <a name="referencias"></a>
-1. Ir [:link:](http://www.mis-algoritmos.com/)
+1. Ir a Mis algoritmos [:link:](http://www.mis-algoritmos.com/)
 
-2. Ir [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)
+2. Ir a Resource [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)
 
-3. Ir [:link:](https://www.includehelp.com/c/)
+3. Ir a includehelp [:link:](https://www.includehelp.com/c/)
 
-4. Ir [:link:](https://www.faceprep.in/c-programming-questions/)
+4. Ir a faceprep [:link:](https://www.faceprep.in/c-programming-questions/)
 
-5. Ir [:link:](https://www.geeksforgeeks.org/c-programming-language/)
+5. Ir a geekforgeeks [:link:](https://www.geeksforgeeks.org/c-programming-language/)
 
-6. Ir [:link:](https://www.programiz.com/c-programming)
+6. Ir a programiz [:link:](https://www.programiz.com/c-programming)
 
 
 

@@ -1,18 +1,30 @@
-# Ejercicios en clase
+# Laboratorio:Estructuras de Control<a name="LabEstrDeContr"></a>
 
-## Informe de laboratorio
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **estructuras de control**
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Referencias](#referencias)
+<!---
+
+--->
+
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
+puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
+Coloca tu documento (PDF) en tu dropbox.
 
 
-	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
 
-
-## Enunciados
+### Ejercicios en clase<a name="ejercicios"></a>
 
 1. *01prime-number.c* Realizar un programa que pida un número y responda 
 si es par o impar.
@@ -94,11 +106,13 @@ aquel usuario que tenga el archivo ejecutable.
 los operadores de incremento y reducción (decrement).
 
 
-# Bibliografía
+### Referencias
 
-1. Ir [:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=322:instrucciones-condicionales-si-entonces-sino-if-then-else-ejemplos-en-pseudocodigo-cu00142a&catid=28&Itemid=59)
+1. Ir aprenderaprogramar [:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=322:instrucciones-condicionales-si-entonces-sino-if-then-else-ejemplos-en-pseudocodigo-cu00142a&catid=28&Itemid=59)
 
-2. Ir [:link:](http://programavideojuegos.blogspot.com/2013/05/25-ejercicios-resueltos-de-estructuras.html)
+2. Ir a programavideojuegos[:link:](http://programavideojuegos.blogspot.com/2013/05/25-ejercicios-resueltos-de-estructuras.html)
 
+
+#### [Volver al inicio](#LabEstrDeContr)
 
 

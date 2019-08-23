@@ -1,19 +1,35 @@
-# Ejercicios en Clase
+# Laboratorio: Implementación de Códigos Básicos<a name="LabImpDeCod"></a>
+
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **implementación de códigos básicos**
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+<!---
+3. [Referencias](#referencias)
+--->
 
 
-## Informe de laboratorio
+
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
+puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
+Coloca tu documento (PDF) en tu dropbox.
 
-~~~
+
+<!---
 	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
-~~~
+	formato PDF de la [bitácora](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+--->
 
-## Enunciados
+### Ejercicios<a name="ejercicios"></a>
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
 usando unos tipos de datos declarados y definidos en el código, como 
@@ -25,7 +41,8 @@ tipo de dato, no solamente entero.
 3. *03da_cte-smblc.c* Modifica el código para que calcule el area y el 
 perímetro de una circunferencia; y el volumen de una esfera de radio dado.
 
-4. *04sum-2-nmbrs.c* Modifica el código para que...
+4. *04sum-2-nmbrs.c* Realiza la suma de dos numeros. Analicemos cada linea.
+	Modifica el código para que...
 	- tome los números desde la terminal y 
 	  que no sean necesariamente enteros.
 	- Edita el código para que reducir el número de líneas.
@@ -71,4 +88,6 @@ Investigar por qué la funcion gets es peligrosa.
 
 14. *14conver-exp.c* Implementa un ejemplo donde realices una conversion de tipo 
 de dato.
+
+#### [Volver al inicio](#LabImpDeCod)
 
