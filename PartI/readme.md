@@ -15,9 +15,9 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
-puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
-Coloca tu documento (PDF) en tu dropbox.
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+Este formato puede usarse para la entrega de diferentes reportes, incluso 
+tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios<a name="ejercicios"></a>
   
@@ -28,11 +28,10 @@ los siguientes tipos de datos:
 - *float*
 - *double*.
 
-2. Realiza una declaración de variables para las
-  siguientes propuestas de programas. Indica cuál será
-  la declaración de variables y Escribe los programas.
+2. Realiza una declaración de variables para las siguientes propuestas de programas. 
+Indica cuál será la declaración de variables y Escribe los programas.
 
-     - Un programa (terminal punto de venta de una ferretería) 
+     a. Un programa (terminal punto de venta de una ferretería) 
      que trabaja con tres valores (interruptores) que activan 
      un estado u otro según sea el caso:
      	- La utilidad del primero es indicar si las unidades de 
@@ -42,18 +41,19 @@ los siguientes tipos de datos:
      	a través de la masa (peso). 
      	- La utilidad del tercero es calcular el precio por objeto vendido.
 
-     - Un programa que dado el precio del dólar en una jornada 
+     b. Un programa que dado el precio del dólar en una jornada 
      calcule el precio y las fluctuaciones en diferentes monedas.
 
-     - Un programa que muestra la altura de una puerta con la mayor precisión posible 
-     (usa el teorema de Pitágoras).
+     c. Un programa que muestra la altura de una puerta con la 
+     mayor precisión posible (usa el teorema de Pitágoras).
      
-     - Un programa que nos pregunta el número de hermanos que tenemos
+     d. Un programa que nos pregunta el número de hermanos que tenemos
      (sin incluirnos a nosotros mismos) y nos muestra el número de
-     hermanos totales que somos (incluyendonos a nosotros).
+     hermanos totales que somos (incluyéndonos a nosotros).
 
 
 ### Referencias<a name="referencias"></a>
+
 1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
 
 2. Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
