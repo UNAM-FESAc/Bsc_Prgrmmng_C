@@ -1,18 +1,25 @@
-# Ejercicios en clase
+# Laboratorio: Estructuras de control<a name="LabEstrucDeControl"></a>
 
-## Informe de laboratorio
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **Estructuras de Control**
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Referencias](#referencias)
+
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+Este formato puede usarse para la entrega de diferentes reportes, incluso 
+tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
-~~~
-	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
-~~~
-
-## Enunciados
+### Ejercicios<a name="ejercicios"></a>
 
 1. *01while.c* Discute con tus compañeros si la afirmación es correcta:
 	
@@ -255,7 +262,8 @@ debe seguir el que se muestra en el siguiente archivo:
 |20  |21   |
 
 
-Discute tu solución.
+Discute tu solución. Revisa los otros códigos del bloque *09for_bucle01.c*-*09for_bucle07.c*.
+
 
 
 
@@ -339,10 +347,10 @@ P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
-## Referencias
+### Referencias<a name="referencias"></a>
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
 
-
+#### [Volver al inicio](#LabEstrucDeControl)
 
 
 <!---

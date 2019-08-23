@@ -21,7 +21,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios<a name="ejercicios"></a>
   
-1. *06Ex_int_exercise.c* Modifica el archivo  
+1. *06Ex_int_exercise.c* Modifica el archivo
 [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
 los siguientes tipos de datos:
 - *char*

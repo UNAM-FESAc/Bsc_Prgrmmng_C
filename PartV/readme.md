@@ -1,18 +1,26 @@
-# Ejercicios en clase
+# Laboratorio: Funciones y otros conceptos<a name="LabFunciones"></a>
 
-## Informe de laboratorio
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **Funciones y otros conceptos**, incluiremos una introducción 
+general al concepto de apuntadores.
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Referencias](#referencias)
+
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+Este formato puede usarse para la entrega de diferentes reportes, incluso 
+tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
-~~~
-	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
-~~~
-
-## Enunciados
+### Ejercicios<a name="ejercicios"></a>
 
 1. *01function.c* Modifica el código (correspondiente a este enunciado) para:
 	- Implementar más parámetros en la función, también debes 
@@ -60,3 +68,9 @@ y stdin es el nombre del dispositivo estandar de entrada.
 
 8. *12paso-copia.c*, *13paso-referencia.c* y *14uso-apuntadores.c* Realiza un pseudocódigo de 
 	cada uno de los programas de este enunciado.
+
+#### [Volver al inicio](#LabFunciones)
+
+
+
+

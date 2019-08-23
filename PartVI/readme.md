@@ -1,18 +1,25 @@
-# Ejercicios en clase
+# Laboratorio: Arreglos<a name="LabArreglos"></a>
 
-## Informe de laboratorio
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **Arreglos**.
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Referencias](#referencias)
+
+### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de ejercicios que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/su6eq5njqy4vvmr/gral-templete.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+Este formato puede usarse para la entrega de diferentes reportes, incluso 
+tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
-~~~
-	Es posible que en algunas sesiones se use el 
-	formato PDF de la [bitácora](https://www.dropbox.com/s/lr2n0dip3psg3e3/bitacora_lab.pdf?dl=0). 
-~~~
-
-## Enunciados
+### Ejercicios<a name="ejercicios"></a>
 
 1. *00array.c* y *01array.c* Escribe un programa que tome la cadena dada, la lea 
 	y que busque algún caracter y diga si está, o no, en la cadena.
@@ -87,7 +94,7 @@ destino= es el arreglo de destino, el cual contendra la
 fuente= es la cadena que sera agregada 
 --->
 
-##Referencias
+### Referencias<a name="referencias"></a>
 
 1. Ir [:link:](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
 
@@ -95,3 +102,4 @@ fuente= es la cadena que sera agregada
 
 
 
+LabArreglos
