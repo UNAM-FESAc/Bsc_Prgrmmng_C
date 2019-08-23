@@ -10,6 +10,15 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 2. [Ejercicios](#ejercicios)
 3. [Referencias](#referencias)
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+### Ejercicios<a name="ejercicios"></a>
+  
+1. *06Ex_int_exercise.c* Modifica el archivo [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) en los tipos de datos y reemplazalos por:
+=======
+<!---
+>>>>>>> 641ea6a5d9cdc6f530f4d5e5b0ede1e57feb64ed
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
@@ -26,6 +35,7 @@ Coloca tu documento (PDF) en tu dropbox.
 [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
 los siguientes tipos de datos:
 >>>>>>> refs/remotes/origin/master
+>>>>>>> 9d4f57cb8f06ede0378713ca344e10d97d9e4109
 - *char*
 - *float*
 - *double*.
