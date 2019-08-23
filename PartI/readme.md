@@ -9,17 +9,9 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 1. [Ejercicios](#ejercicios)
 2. [Referencias](#referencias)
 
-<!---
-
-4. [Ejercicio 4](#Ejer4)
-5. [Ejercicio 5](#Ejer5)
---->
-
 ### Ejercicios<a name="ejercicios"></a>
   
-1. *06Ex_int_exercise.c* Modifica el archivo  
-[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
-los siguientes tipos de datos:
+1. *06Ex_int_exercise.c* Modifica el archivo [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) en los tipos de datos y reemplazalos por:
 - *char*
 - *float*
 - *double*.
