@@ -90,10 +90,12 @@ de dato.
 
 1. Program to find the ASCII value of a character. 
 	Given a character as input, the ASCII value of the character is displayed as output.
----
+
+~~~
 A character variable holds the ASCII value (an integer number between 0 and 127) rather 
 than that character itself. That value is known as the ASCII value.
----
+~~~
+
 2. Realice el Diagrama de flujo de la suma de dos números reales.
 3. Realice el Diagrama de flujo de la suma de dos números complejos.
 
