@@ -88,27 +88,27 @@ de dato.
 
 Escribas los programas que realice las tareas que se mencionan a continuación.
 
-E1. _Program to find the ASCII value of a character._ 
+1. _Program to find the ASCII value of a character._ 
 	_Given a character as input, the ASCII value of the character is displayed as output._
 
 ~~~
-_A character variable holds the ASCII value (an integer number between 0 and 127) rather 
-than that character itself. That value is known as the ASCII value._
+A character variable holds the ASCII value (an integer number between 0 and 127) rather 
+than that character itself. That value is known as the ASCII value.
 ~~~
 
-E2. _Program to check whether the given character is an alphabet._ 
+2. _Program to check whether the given character is an alphabet._ 
 ~~~
-_The ASCII values of lower case alphabets are from  65 to 90 and the ASCII values of upper case alphabets are from 97 to 122. A character is obtained as input from the user. If its ASCII value lies in the above-mentioned range, it can be displayed as an alphabet._
+The ASCII values of lower case alphabets are from  65 to 90 and the ASCII values of upper case alphabets are from 97 to 122. A character is obtained as input from the user. If its ASCII value lies in the above-mentioned range, it can be displayed as an alphabet.
 ~~~
 
-E3. Programa que revise si un caracter dados es mayúscula, minúscula, número o un 
+3. Programa que revise si un caracter dados es mayúscula, minúscula, número o un 
 caracter especial.
 
-E4. Programa que encuentre el número mayor entre dos números.
+4. Programa que encuentre el número mayor entre dos números.
 
-E5. Realice el Diagrama de flujo de la suma de dos números reales.
+5. Realice el Diagrama de flujo de la suma de dos números reales.
 
-E6. Realice el Diagrama de flujo de la suma de dos números complejos.
+6. Realice el Diagrama de flujo de la suma de dos números complejos.
 
 
 ### Referencias<a name="referencias"></a>
