@@ -13,7 +13,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
 
 
-### Informe de laboratorio<a name="InfLabPDF"></a>
+### 1. Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
 lista de [ejercicios especiales](#referencias) que aparecen en esta sección. El formato para el informe 
@@ -23,7 +23,7 @@ puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
 Coloca tu documento (PDF) en tu dropbox.
 
 
-### Ejercicios<a name="ejercicios"></a>
+### 2. Ejercicios<a name="ejercicios"></a>
 
 1. *01HolaMundo.c* Modifica el archivo para que imprima la misma cadena, 
 usando unos tipos de datos declarados y definidos en el código, como 
@@ -84,7 +84,7 @@ Investigar por qué la funcion gets es peligrosa.
 de dato.
 
 
-### Ejercicios Especiales<a name="ejerciciosespeciales"></a>
+### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
 
 Escribas los programas que realice las tareas que se mencionan a continuación.
 
