@@ -8,17 +8,15 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
-2. [Ejercicios Especiales](#ejerciciosespeciales)
-<!---
-3. [Referencias](#referencias)
---->
+3. [Ejercicios Especiales](#ejerciciosespeciales)
+4. [Referencias](#referencias)
 
 
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
-lista de ejercicios que aparecen en esta sección. El formato para el informe 
+lista de [ejercicios especiales](#referencias) que aparecen en esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
 puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
@@ -88,16 +86,34 @@ de dato.
 
 ### Ejercicios Especiales<a name="ejerciciosespeciales"></a>
 
-1. Program to find the ASCII value of a character. 
-	Given a character as input, the ASCII value of the character is displayed as output.
+Escribas los programas que realice las tareas que se mencionan a continuación.
+
+E1. _Program to find the ASCII value of a character._ 
+	_Given a character as input, the ASCII value of the character is displayed as output._
 
 ~~~
-A character variable holds the ASCII value (an integer number between 0 and 127) rather 
-than that character itself. That value is known as the ASCII value.
+_A character variable holds the ASCII value (an integer number between 0 and 127) rather 
+than that character itself. That value is known as the ASCII value._
 ~~~
 
-2. Realice el Diagrama de flujo de la suma de dos números reales.
-3. Realice el Diagrama de flujo de la suma de dos números complejos.
+E2. _Program to check whether the given character is an alphabet._ 
+~~~
+_The ASCII values of lower case alphabets are from  65 to 90 and the ASCII values of upper case alphabets are from 97 to 122. A character is obtained as input from the user. If its ASCII value lies in the above-mentioned range, it can be displayed as an alphabet._
+~~~
+
+E3. Programa que revise si un caracter dados es mayúscula, minúscula, número o un 
+caracter especial.
+
+E4. Programa que encuentre el número mayor entre dos números.
+
+E5. Realice el Diagrama de flujo de la suma de dos números reales.
+
+E6. Realice el Diagrama de flujo de la suma de dos números complejos.
+
+
+### Referencias<a name="referencias"></a>
+1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/)
+
 
 
 
