@@ -3,17 +3,14 @@
 
 #include <stdio.h>
 #include <stdbool.h>
-
 int main()
 {
-    int p=3;
-
+    int p=4;
     bool isEven = true;
-
 if(p==2){
-    printf("p is Par\n");
+    printf("p es Par\n");
 	}else{
-    printf("p is Impar\n");
+    printf("p es Impar\n");
 	}
     return 0;
 }

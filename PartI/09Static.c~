@@ -4,11 +4,12 @@
 // Declaracion de la funcion
 void func(void);
 static int count = 5; // variable global 
-int main(){
+//int 
+void main(){
    while(count--) {
      func(); // llamar la funcion
    }
-   return 0;
+   //  return 0;
 }
 // Definicion de la funcion
 void func( void ) {

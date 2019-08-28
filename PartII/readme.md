@@ -8,6 +8,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
+2. [Ejercicios Especiales](#ejerciciosespeciales)
 <!---
 3. [Referencias](#referencias)
 --->
@@ -83,6 +84,20 @@ Investigar por qué la funcion gets es peligrosa.
 
 14. *14conver-exp.c* Implementa un ejemplo donde realices una conversion de tipo 
 de dato.
+
+
+### Ejercicios Especiales<a name="ejerciciosespeciales"></a>
+
+1. Program to find the ASCII value of a character. 
+	Given a character as input, the ASCII value of the character is displayed as output.
+---
+A character variable holds the ASCII value (an integer number between 0 and 127) rather 
+than that character itself. That value is known as the ASCII value.
+---
+2. Realice el Diagrama de flujo de la suma de dos números reales.
+3. Realice el Diagrama de flujo de la suma de dos números complejos.
+
+
 
 #### [Volver al inicio](#LabImpDeCod)
 
