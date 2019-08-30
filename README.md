@@ -10,17 +10,16 @@ This is a repository for the programming course 2019-I in FESAc.
 2. [Homework](#homework)
 3. [About GPA](#aboutgpa)
 4. [Activities](#activities)
-
 5. [Referencias](#referencias)
 
 
 
-## Material  <a name="material"></a>
+## 1. Material  <a name="material"></a>
 Check the link ([:link:](http://sae.acatlan.unam.mx/)) use the data given for Salvador, Alfonso or Adriana to log in.
 Besides you can download the document use in the class [here](https://www.dropbox.com/s/f5ats3j5liw0fqx/prgrmmng-I-clss.pdf?dl=0).
 
 
-## Lectures and homework <a name="homework"></a>
+## 2. Lectures and homework <a name="homework"></a>
 The student has to read the following blogs:
 - [7 secrets...](https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar) 
 - [To motivate myself...](https://www.quora.com/What-can-I-do-to-motivate-myself-for-programming-regularly-for-4-6-hours)
@@ -43,7 +42,7 @@ Print and bring the document next August 15th (wednesday) to discuss in the clas
 --->
 
 
-## About GPA <a name="aboutgpa"></a>
+## 3. About GPA <a name="aboutgpa"></a>
 Remember professor is not a :cop:, professor is a advisor who wants to discover differents things about 
 programming.
 
@@ -51,12 +50,12 @@ programming.
 ------------------------------------------------------------------| -------------|
   First exam (17-21 september):                 | 30 %         |
   Second exam (05-09 november):                 | 30 %         |
-  Final Project (friday 16 november):                        | 20 %         |    
+  Final Project (friday 16 november):                        | 20 %         | 
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
   
 
-## Activities <a name="activities"></a>
+## 4. Activities <a name="activities"></a>
 
 We extend the invitation to the seminar:
 
@@ -71,7 +70,7 @@ We extend the invitation to the seminar:
 \clearpage
 -->
 
-## Referencias <a name="referencias"></a>
+## 5. Referencias <a name="referencias"></a>
 1. Ir a Mis algoritmos [:link:](http://www.mis-algoritmos.com/)
 
 2. Ir a Resource [:link:](https://www.w3resource.com/c-programming/programming-in-c.php)

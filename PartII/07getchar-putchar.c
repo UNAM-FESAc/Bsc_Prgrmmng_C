@@ -11,6 +11,7 @@ de caracteres.
 
 int main()
 {
+	printf("Presiona Enter");
   //La funcion getchar no devuelve nada hasta presionar enter
   getchar();
   // la funcion putchar escribe un unico caracter en la salida estandar
@@ -25,8 +26,9 @@ int main()
 	putchar('s');
 	putchar('e');
 
-	putchar('\n');
-  getchar();
+putchar('\n');
+getchar();
+
   return 0;
 }
 

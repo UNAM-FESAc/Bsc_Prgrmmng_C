@@ -8,12 +8,14 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
+3. [Ejercicios Especiales](#ejerciciosespeciales)
 3. [Referencias](#referencias)
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
-lista de ejercicios que aparecen en esta sección. El formato para el informe 
+lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
+esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
 Este formato puede usarse para la entrega de diferentes reportes, incluso 
@@ -50,6 +52,25 @@ Indica cuál será la declaración de variables y Escribe los programas.
      d. Un programa que nos pregunta el número de hermanos que tenemos
      (sin incluirnos a nosotros mismos) y nos muestra el número de
      hermanos totales que somos (incluyéndonos a nosotros).
+
+
+
+### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
+
+1. ¿Cuántos Bytes reserva un tipo de dato _int_?
+
+2. ¿Cuántos Bytes reserva un tipo de dato _char_?
+
+3. ¿Cuántos Bytes reserva un tipo de dato _float_?
+
+4. ¿Cuántos Bytes reserva un tipo de dato _double_?
+
+5. ¿Qué el ámbito?
+
+6. ¿Qué un la visibiladad?
+
+7. ¿Qué un la durabilidad?
+
 
 
 ### Referencias<a name="referencias"></a>

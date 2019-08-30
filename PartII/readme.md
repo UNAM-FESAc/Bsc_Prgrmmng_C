@@ -16,7 +16,8 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ### 1. Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
-lista de [ejercicios especiales](#referencias) que aparecen en esta sección. El formato para el informe 
+lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
+esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
 puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
@@ -40,8 +41,9 @@ perímetro de una circunferencia; y el volumen de una esfera de radio dado.
 	- tome los números desde la terminal y 
 	  que no sean necesariamente enteros.
 	- Edita el código para que reducir el número de líneas.
-	- Implementa las operaciones aritméticas básicas: a*b, a-b, b-a, a/b y b/a. 
+	- Implementa las operaciones aritméticas básicas: $$a*b, a-b, b-a, a/b y b/a.$$ 
 	  Además de la suma.
+
 5. *05char-paragraph.c* Escribe un código en el que guarde un tipo de 
 dato char (una cadena) y un tipo de dato entero. En la salida debe 
 mostrar un mensaje en el que incluya los dos tipos de datos.
@@ -55,7 +57,7 @@ Implementa un ejemplo en un código.
 	- Omite definir el tipo de la función y observa que sucede
 ~~~
 Cuando puedas usar la terminal, escribe: 
- *gcc -Wall nombredelarchivo.c -o nombredelarchivo*
+ gcc -Wall nombredelarchivo.c -o nombredelarchivo
  y analiza lo que sucede. 
 ~~~
 
@@ -98,7 +100,9 @@ than that character itself. That value is known as the ASCII value.
 
 2. _Program to check whether the given character is an alphabet._ 
 ~~~
-The ASCII values of lower case alphabets are from  65 to 90 and the ASCII values of upper case alphabets are from 97 to 122. A character is obtained as input from the user. If its ASCII value lies in the above-mentioned range, it can be displayed as an alphabet.
+The ASCII values of lower case alphabets are from  65 to 90 and the ASCII values of upper 
+case alphabets are from 97 to 122. A character is obtained as input from the user. 
+If its ASCII value lies in the above-mentioned range, it can be displayed as an alphabet.
 ~~~
 
 3. Programa que revise si un caracter dados es mayúscula, minúscula, número o un 
@@ -110,8 +114,13 @@ caracter especial.
 
 6. Realice el Diagrama de flujo de la suma de dos números complejos.
 
+7. ¿Qué es un dato de tipo simbólico?
 
-### Referencias<a name="referencias"></a>
+
+
+
+### 4. Referencias<a name="referencias"></a>
+
 1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/)
 
 
