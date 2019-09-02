@@ -1,4 +1,28 @@
-# Ejercicios
+# Laboratorio: Declaraciones y Tipos de datos<a name="LabTiposDeDatos"></a>
+
+Los siguientes ejercicios tiene como propósito revisar y repasar los 
+conceptos del tema **tipos de datos**
+
+En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
+
+## Tabla de Contenido
+1. [Informe de Laboratorio](#InfLabPDF)
+2. [Ejercicios](#ejercicios)
+3. [Ejercicios Especiales](#ejerciciosespeciales)
+<!---
+4. [Referencias](#referencias)
+--->
+### Informe de laboratorio<a name="InfLabPDF"></a>
+
+Debes realizar un informe de laboratorio que contenga información sobre la 
+lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
+esta sección. El formato para el informe 
+debe seguir el que se muestra en el siguiente archivo:
+[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+Este formato puede usarse para la entrega de diferentes reportes, incluso 
+tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
+
+### Ejercicios<a name="ejercicios"></a>
 
 1.*01_HolaMundo00.playground*--*01_HolaMundo01.playground*
 
@@ -16,12 +40,6 @@
 	- Combina mensajes con resultados (ver código ejemplo).
 	- Concatena y crea un mensaje que muestre resultados de una 
 	operación.
-
----
-**Tarea Especial**: 
-Implementa una calculadora aritmética con emojis.
----
-
 
 3. *05_ModuleSw00.playground*
 	- Investigue sobre otras funciones del módulo **UIKit**.
@@ -59,3 +77,16 @@ Implementa una calculadora aritmética con emojis.
 	(_enum_), una estructura selectiva (_switch_) y otras 
 	herramientas para informar la temparada del año (considere)
 	la fecha de la computadora (función _date_).
+	
+### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
+
+1. Investigue las diferencias que entre la declaración _let_ y y _var_. 
+
+2. Implementa las declaraciones _let_ y _var_ para crear un programa que 
+	imprima un mensaje de bienvenida para una tienda; por ejemplo:
+	Fecha+Mensaje+Temperatura+...etc. 
+3. Investiga cómo se puede implementar la fecha y que la imprima en la salida.
+
+4. Implementa una calculadora aritmética con emojis.	
+
+#### [Volver al inicio](#LabTiposDeDatos)
