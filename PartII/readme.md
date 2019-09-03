@@ -41,7 +41,7 @@ perímetro de una circunferencia; y el volumen de una esfera de radio dado.
 	- tome los números desde la terminal y 
 	  que no sean necesariamente enteros.
 	- Edita el código para que reducir el número de líneas.
-	- Implementa las operaciones aritméticas básicas: $$a*b, a-b, b-a, a/b y b/a.$$ 
+	- Implementa las operaciones aritméticas básicas: $`a*b, a-b, b-a, a/b y b/a.`$ 
 	  Además de la suma.
 
 5. *05char-paragraph.c* Escribe un código en el que guarde un tipo de 
@@ -71,7 +71,7 @@ Investigar por qué la funcion gets es peligrosa.
 
 11. *11relational-op.c* Detalla el siguiente código y responde: 
 	- Observe la salida e identifique los simbolos: ==, >=, <=, etc.
-	- Identifique lo que siginifica el 1 o el 0 al final de cada linea. 
+	- Identifique lo que significa el 1 o el 0 al final de cada linea. 
 
 12. *12sizeof-op* Realiza las siguientes actividades:
 	- Implementa otros tipos de datos (cualificadores) y
