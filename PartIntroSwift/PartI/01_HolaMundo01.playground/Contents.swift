@@ -1,6 +1,12 @@
-/* ********************* TEXTO SIN ACENTOS *********************/
+/*
+ ********************* TEXTO SIN ACENTOS ********************
+ https://repl.it
+ */
 // Recuerda documentar tus codigos
 
-var letra : Character = "A";
-var cadena = "\(letra) todos: Hola Mundo"
+var letra:Character="🍒";
+
+var cadena:String="\(letra) todos: Hola Mundo"
+
 print(cadena)
+

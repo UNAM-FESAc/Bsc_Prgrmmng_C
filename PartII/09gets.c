@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-main()
+int main()
 {
   char cadena[50];
 
@@ -11,6 +11,7 @@ main()
   gets(cadena);
   puts("El texto escrito es:");
   puts(cadena);
+  return 0;
 }
 
 
