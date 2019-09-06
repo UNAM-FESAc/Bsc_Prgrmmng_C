@@ -26,9 +26,14 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 ### Ejercicios<a name="ejercicios"></a>
 
 
-1. 2. Realizar la lectura del documento [:Link:](https://www.dropbox.com/s/9bqyrbdofdfodf4/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+1. 2. Realizar la lectura del documento [:+Link:](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
 
-2. Realizar la lectura del documento [:Link:](https://www.dropbox.com/s/6oiiywjmy5ijgae/01act-prgrmmng.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+2. Realizar la lectura del documento [:+Link:](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+
+
+3. Realizar la lectura del documento [:+Link:](https://www.dropbox.com/s/rme3u48sfx39la5/02act-prgrmmng.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+
+
 
 <!---
 *06Ex_int_exercise.c* Modifica el archivo
