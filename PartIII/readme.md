@@ -111,6 +111,18 @@ Realice ejemplos de al menos dos operadores con sus pseudocódigo (diagrama de f
 	entonces la secuencia no se ejecuta.
 
 
+~~~
+	switch (condicion)
+{
+    case 1: // caso si condicion = 1;
+        break;
+    case 2: // caso si condicion = 2;
+        break;
+    default: // // caso si condicion no es 1 ni 2;
+}
+~~~
+
+
 7. *04switch02.c*--*04switch03.c* Modifica el código para que te brinde opciones de cálculos de las 
 propiedades, al menos, diez (10) figuras geométricas.
 
@@ -127,7 +139,11 @@ Implemente _if_.
 
 3. Describa cómo funcionan los operadores de incremento y reducción (decrement).
 
+4. Investigue sobre los operadores que se pueden implementar en 
+en la condición del _switch_. 
 
+5. Escriba un código con su pseudocódigo en el que implemente 
+un _switch_ anidado.
 
 
 ### Referencias
