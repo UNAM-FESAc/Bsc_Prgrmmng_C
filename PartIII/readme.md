@@ -110,17 +110,16 @@ Realice ejemplos de al menos dos operadores con sus pseudocódigo (diagrama de f
 	de identificadores y cuando encuentra la opción que se ajusta; 
 	entonces la secuencia no se ejecuta.
 
-
-~~~
+```C
 	switch (condicion)
-{
-    case 1: // caso si condicion = 1;
+	{
+    	case 1: // caso si condicion = 1;
         break;
-    case 2: // caso si condicion = 2;
+    	case 2: // caso si condicion = 2;
         break;
-    default: // // caso si condicion no es 1 ni 2;
-}
-~~~
+    	default: // // caso si condicion no es 1 ni 2;
+	}
+```
 
 
 7. *04switch02.c*--*04switch03.c* Modifica el código para que te brinde opciones de cálculos de las 
