@@ -118,13 +118,9 @@ caracter especial.
 7. ¿Qué es un dato de tipo simbólico?
 
 
-
-
 ### 4. Referencias<a name="referencias"></a>
 
 1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/)
-
-
 
 
 #### [Volver al inicio](#LabImpDeCod)

@@ -8,15 +8,14 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
-3. [Referencias](#referencias)
-<!---
-
---->
+3. [Ejercicios Especiales](#ejerciciosespeciales)
+4. [Referencias](#referencias)
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
-lista de ejercicios que aparecen en esta sección. El formato para el informe 
+lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
+esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
 [PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). Este formato 
 puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
@@ -26,7 +25,7 @@ Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios en clase<a name="ejercicios"></a>
 
-1. *01prime-number.c* Realizar un programa que pida un número y responda 
+1. *01estructuraIF01.c*--*01estructuraIF02.c* Realizar un programa que pida un número y responda 
 si es par o impar.
 
 ~~~
@@ -43,11 +42,22 @@ Veamos un ejemplo en la sintaxis del lenguaje de programación C:
 ```
 
 
-2. *02numerosdiferentes.c* Realizar un pseudocódigo y dar una salida legible para 
+2. *02numerosdiferentes.c* Realizar un pseudocódigo (o diagrama de flujo) y dar una salida legible para 
 aquel usuario que tenga el archivo ejecutable.
 
+3. *02numerosdiferentes.c* Escribe un código que tome carácteres alfanuméricos que:
+	- Si son números los organice (de acuerdo a la elección del usuario):
+		- menor a mayor
+		- mayor a menor.
+	- Si son letras que los organice (de acuerdo a la elección del usuario)
+		- ordenado normal:  _a_, _b_, _c_, .., _z_.
+		- ordenado inverso: _z_, y_, _x_, .., _a_.
+		
+4. *01estructuraIF03.c* Investigue sobre qué otros operadores se pueden 
+introducir en la condición de la estructura de control selectiva. 
+Realice ejemplos de al menos dos operadores con sus pseudocódigo (diagrama de flujo).
 
-3. *03yes-no.c* Construya el código en C usando el siguiente pseudocódigo:
+5. *03yes-no.c* Construya el código en C usando el siguiente pseudocódigo:
 	```
 	INICIO
    		Número: ENTERO
@@ -55,7 +65,7 @@ aquel usuario que tenga el archivo ejecutable.
    		LEA número
    		Si número >= 0 entonces
       			ESCRIBA El número es positivo
-   				Sino
+   				Si no
          		ESCRIBA El número es negativo
       		Fin-Si
 	FIN
@@ -64,7 +74,7 @@ aquel usuario que tenga el archivo ejecutable.
 
 
 
-4. *04switch.c* Discute con tus compañeros si la afirmación es correcta:
+6. *04switch01.c* Discute con tus compañeros si la afirmación es correcta:
 	- [X] La declaración switch como una declaración de selección 
 	múltiple. Esta declaración se usa para seleccionar un 
 	camino de diferentes alternativas en la ejecución de 
@@ -101,9 +111,39 @@ aquel usuario que tenga el archivo ejecutable.
 	entonces la secuencia no se ejecuta.
 
 
+~~~
+	switch (condicion)
+{
+    case 1: // caso si condicion = 1;
+        break;
+    case 2: // caso si condicion = 2;
+        break;
+    default: // // caso si condicion no es 1 ni 2;
+}
+~~~
 
-5. *05incr-decr-op.c* Reaclice un bitácora en la que de describa cómo funcionan 
-los operadores de incremento y reducción (decrement).
+
+7. *04switch02.c*--*04switch03.c* Modifica el código para que te brinde opciones de cálculos de las 
+propiedades, al menos, diez (10) figuras geométricas.
+
+### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
+
+1. Escriba un código en el que asocie cada día de la semana con un carácter, 
+haga que el usuario escriba el día de la semana y se imprima en pantalla el carácter asociado.
+Implemente _if_.
+
+2. Escriba un código en el que asocie cada día de la semana con un un cadena de texto, 
+haga que el usuario escriba el día de la semana y se imprima en pantalla la cadena asociada. 
+Implemente _if_.
+
+
+3. Describa cómo funcionan los operadores de incremento y reducción (decrement).
+
+4. Investigue sobre los operadores que se pueden implementar en 
+en la condición del _switch_. 
+
+5. Escriba un código con su pseudocódigo en el que implemente 
+un _switch_ anidado.
 
 
 ### Referencias
