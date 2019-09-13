@@ -1,7 +1,7 @@
-# Laboratorio: Diagramas de Flujo<a name="LabDdeFlujo"></a>
+# Lecturas sobre programación básica<a name="LabDdeFlujo"></a>
 
-Los siguientes ejercicios tiene como propósito revisar y repasar los 
-conceptos del tema **tipos de datos**
+Las siguientes lecturas tienen como propósito revisar y repasar los 
+conceptos de los temas vistos y repasados en clase.
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
@@ -9,10 +9,12 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
 
-<!---
-3. [Ejercicios Especiales](#ejerciciosespeciales)
-4. [Referencias](#referencias)
---->
+~~~
+Es importante que realice los ejercicios que pudieran aparecer en las lecturas, 
+porque podrían aparecer en el examen del curso.
+~~~
+
+
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
 Debes realizar un informe de laboratorio que contenga información sobre la 
@@ -26,13 +28,16 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 ### Ejercicios<a name="ejercicios"></a>
 
 
-1. 2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+1. 2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
-2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/bzuuoo3e5hqzb8d/01act-prgrmmng.tex.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/bzuuoo3e5hqzb8d/01act-prgrmmng.tex.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
 
-3. Realizar la lectura del documento [Link](https://www.dropbox.com/s/rme3u48sfx39la5/02act-prgrmmng.pdf?dl=0). Realiza tu informe y colocalo en tu repositorio.
+3. Realizar la lectura del documento [Link](https://www.dropbox.com/s/rme3u48sfx39la5/02act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
+4. Realizar la lectura del documento [Link](https://www.dropbox.com/s/e7wsmx5phunzvc0/04act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
+
+5. Realizar la lectura del documento [Link](https://www.dropbox.com/s/rojkyc5nxu1cshz/05act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
 
 <!---
@@ -80,7 +85,7 @@ Indica cuál será la declaración de variables y Escribe los programas.
 
 5. ¿Qué el ámbito?
 
-6. ¿Qué un la visibiladad?
+6. ¿Qué un la visibilidad?
 
 7. ¿Qué un la durabilidad?
 
