@@ -10,8 +10,7 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 2. [Ejercicios](#ejercicios)
 
 ~~~
-Es importante que realice los ejercicios que pudieran aparecer en las lecturas, 
-porque podrían aparecer en el examen del curso.
+Es importante que realices los ejercicios que pudieran presentarse en las lecturas, porque podrían aparecer en el examen del curso.
 ~~~
 
 
@@ -28,7 +27,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 ### Ejercicios<a name="ejercicios"></a>
 
 
-1. 2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
+1. Realizar la lectura del documento [Link](https://www.dropbox.com/s/hcjbvwpjmiutcyq/00act-reglas-operacion.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
 2. Realizar la lectura del documento [Link](https://www.dropbox.com/s/bzuuoo3e5hqzb8d/01act-prgrmmng.tex.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
