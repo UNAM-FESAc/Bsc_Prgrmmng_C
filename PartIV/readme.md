@@ -8,7 +8,8 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
-3. [Referencias](#referencias)
+3. [Ejercicios especiales](#ejerciciosEspeciales)
+4. [Referencias](#referencias)
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
@@ -20,6 +21,7 @@ Este formato puede usarse para la entrega de diferentes reportes, incluso
 tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios<a name="ejercicios"></a>
+
 
 1. *01while.c* Discute con tus compañeros si la afirmación es correcta:
 	
@@ -146,6 +148,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 
 	b. Discute si la respuesta elegida es correcta:
+
 	-[ ] 
 	```C
 	if(condicion1) 
@@ -302,7 +305,7 @@ Producto	|	Suma	|Resta		|División
 	corresponde con el código que se muestra en el archivo mencionado.
 	<!--- La respuesta correcta es la primera--->
 
-- Primero algoritmo
+- Primero prueba de escritorio
 
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
@@ -314,7 +317,7 @@ P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
-- Segundo algoritmo
+- Segundo prueba de escritorio
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -325,7 +328,7 @@ P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
-- Tercer algoritmo
+- Tercer prueba de escritorio
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -336,7 +339,7 @@ P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
-- Cuarto algoritmo
+- Cuarto prueba de escritorio
 
 Paso	|   j	|  i/n	|   j   |   n   | j/n/i	|   j   | i/n/j |   j   |   n   | j/n
 --------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------
@@ -346,6 +349,30 @@ P3	| j = 1	|	|j = 3	| 	|j = 1	|j = 5	|	| j = 3	|	| j = 1
 P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
+
+
+
+
+### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
+
+1. Implementa un covertidor de temperatura: usa una estructura de control iterativa _for_.
+	Convierte Farenheit a Celsius y Kelvin, implementa todas las conversiones posibles.
+
+2. Escribe un programa que muestre los números pares en un intervalo. 
+	Ingrese el número 1 y 7; y el resultado sea: 2, 4, 6. Escribe el mismo 
+	programa para números impares. Implementa una estructura de control iterativa.
+
+3. Escribe un programa que muestre el triángulo de pascal, el número de filas debe 
+	introducirse desde la terminal.
+
+4. Usa estructuras de control iterativas y escribe un programa que te muestre tu 
+	apellido escrito con un caracter ingresado desde la terminal; ejemplo:
+
+	**** ***  ***  *  * ****
+	*  * *  * *  * *  *   *
+	*  * ***  *  * *  *  * 
+	**** *  * ***  **** ****
+
 
 ### Referencias<a name="referencias"></a>
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)

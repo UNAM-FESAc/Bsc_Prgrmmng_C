@@ -16,7 +16,7 @@ int main()
    a = 0;
    do
    {
-      printf( "Introduzca un numero entero: " );
+      printf( "Introduzca un numero entero (no presiones el cero): " );
       scanf( "%d", &n );
 
       if ( n == 0 )
@@ -25,6 +25,7 @@ int main()
          break;
 
       }
+
       printf( "El opuesto es: %d\n", -n );
       a += n;
    } while ( n >= -10 && n <= 10 );

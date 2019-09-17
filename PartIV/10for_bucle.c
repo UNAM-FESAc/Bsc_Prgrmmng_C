@@ -1,10 +1,6 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-/*
-declaracion for
-*/
-
 #include <stdio.h>
 
 
@@ -26,7 +22,7 @@ int main()
 		for(i=inicial; i<=final; ++i)
 	{
 prod_nume=i*numero;
-	printf("%d x %d = %d \n", numero, i, prod_nume);
+	printf("%d x %d = %2d \n", numero, i, prod_nume);
 
 	}
 }

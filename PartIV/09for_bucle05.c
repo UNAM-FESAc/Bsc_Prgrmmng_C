@@ -1,3 +1,6 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
 #include <stdio.h>
 
 int main()
@@ -11,7 +14,4 @@ int main()
 	}
 }
 
-/*
 
-Nota que (Final - inicial)/k es el numero de iteraciones.
-*/
