@@ -367,12 +367,12 @@ P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN
 
 4. Usa estructuras de control iterativas y escribe un programa que te muestre tu 
 	apellido escrito con un caracter ingresado desde la terminal; ejemplo:
-
+~~~
 	**** ***  ***  *  * ****
 	*  * *  * *  * *  *   *
 	*  * ***  *  * *  *  * 
 	**** *  * ***  **** ****
-
+~~~
 
 ### Referencias<a name="referencias"></a>
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
