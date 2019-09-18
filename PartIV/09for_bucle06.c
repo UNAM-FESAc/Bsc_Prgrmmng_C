@@ -1,3 +1,6 @@
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
+
 #include <stdio.h>
 
 int main()
@@ -11,7 +14,3 @@ int main()
 	}
 }
 
-/*
-
-Nota que Log2((final-inicial)/k) es, aproximadamente, el numero de iteraciones.
-*/

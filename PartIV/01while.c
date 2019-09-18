@@ -18,9 +18,10 @@ DigIni = DigIni - 1;
 printf("Dame un valor entero final ");
 
 scanf("%i",&DigFinal);
-DigFinal= DigFinal -1;
+DigFinal= DigFinal - 1;
 
 printf("Ahora te muestro una lista de datos:\n");
+
 
 while(DigIni <= DigFinal)
 {
