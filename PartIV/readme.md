@@ -147,7 +147,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	
 
 
-8. *08for_bucle* 
+6. *08for_bucle* 
 	- Modifica el código para que la salida sea:
 
 |                Resultados              |
@@ -162,7 +162,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	- Haz que los valores inicial y final se adquieran a traves 
 	de la pantalla.
 
-9. *09for_bucle.c*
+7. *09for_bucle.c*
 	- Modifica el archivo en la línea ```C printf("%d\n",i++); ```
 	por ```C printf("%d\n",++i); ```
 	Discute con tus compañeros sobre los resultados obtenidos. Explíca.
@@ -185,8 +185,7 @@ Discute tu solución. Revisa los otros códigos del bloque *09for_bucle01.c*-*09
 
 
 
-
-10.*10for_bucle.c* Edita el código...
+8.*10for_bucle.c* Edita el código...
 	- para que la salida sea parecida a (usa secuencias de escape):
 
 | Resultados  |
@@ -217,7 +216,7 @@ Producto	|	Suma	|Resta		|División
 6 x  5 = 30.0	| 6 +  5 = 11.0	| 6 -  5 = -1.0	| 6 /  5 =  0.8
 
 
-11. *11for-anidado.c* Revisa detalladamente la siguiente información y confirma cuál aseveración 
+9. *11for-anidado.c* Revisa detalladamente la siguiente información y confirma cuál aseveración 
 	corresponde con el código que se muestra en el archivo mencionado.
 	<!--- La respuesta correcta es la primera--->
 
