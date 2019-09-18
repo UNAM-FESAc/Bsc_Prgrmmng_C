@@ -1,7 +1,6 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos.
 
-
 /*
 Se requiere un valor centinela como ultimo dato a 
 para manejar los elementos a evaluar y que el bucle 
@@ -16,7 +15,7 @@ no entre en un ciclo infinito.
 int main(){
 
 const int centinela = -1;
-int nota, cuenta, suma=0;
+int nota=0, cuenta=0, suma=0;
 
 printf("\vPara salir escriba: -1\n\v");
 printf("\vintroduzca primera calificacion ");
@@ -30,7 +29,7 @@ while (nota != centinela)
 	scanf("%d", &nota);
 
 if(nota == centinela){
-printf("Introdujo %i datos. La suma total es = %i.\n", cuenta, suma);
+printf("Introdujo %d datos. La suma total es = %d.\n", cuenta, suma);
 	}
 }
 

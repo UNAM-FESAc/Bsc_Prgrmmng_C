@@ -121,9 +121,102 @@ Realice ejemplos de al menos dos operadores con sus pseudocódigo (diagrama de f
 	}
 ```
 
-
 7. *04switch02.c*--*04switch03.c* Modifica el código para que te brinde opciones de cálculos de las 
 propiedades, al menos, diez (10) figuras geométricas.
+
+
+8. *07ques-ope.c* 
+	- Cambia break por continue y observa lo que sucede.
+	- Descubre cómo operan los símbolos && y ||.
+	- Escribe un código que tome un letra en minúscula (mayúscula) 
+	y regrese su mayúscula (minúscula). Además debes considerar que 
+	el usuario puede incluir números, por lo que debes incluir qué 
+	hará tu programa si el usuario escribe un carácter.
+
+
+
+9. *08if_anidado.c*
+
+	a. Realiza un programa que  informe si el caracter introducido es o no un número.
+
+
+	b. Discute si la respuesta elegida es correcta:
+
+	-[ ] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son verdaderas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son falsas
+	}
+	```
+	-[ ] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son falsas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son verdaderas
+	}
+	```
+
+	-[X] 
+	```C
+	if(condicion1) 
+	{
+   // las sentencias que se ejecutaran si la condicion1
+   // es cierta
+	}
+	else if(condicion2) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //es falsa y la expresion2 es verdadera
+	}
+	else if(condicion3) 
+	{
+   //las sentencias que se ejecutaran si la condicion1
+   //y la expresion2 son falsas, y la condicion3 es 
+   //verdadera
+	}
+	...
+	else 
+	{
+   //si todas las declaraciones anteriores son falsas
+	}
+	```
+
+
 
 ### 3. Ejercicios Especiales<a name="ejerciciosespeciales"></a>
 

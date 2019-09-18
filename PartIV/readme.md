@@ -41,11 +41,11 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	hasta satisfacer la condicion, un grupo de instrucciones no se 
 	ejecuta de forma repetida.
 
-~~~
+```C 
 	while(condicion){instrucciones}
-~~~
+```
 
-2. *02do-while.c* Observa y discute sobre cuál es la forma correcta de un do-while
+2. *03do-while.c* Observa y discute sobre cuál es la forma correcta de un do-while
 
 	- [ ] 
 	```C 
@@ -61,7 +61,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	{
 	// instrucciones;
 	}
-	while(condicion)
+	while(condicion);
 	```
 	- [ ] 
 	```C 
@@ -88,7 +88,7 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 ~~~
 
 
-3. *03centinela-bucle* Reflexiona sobre el uso de los centinelas. Desde 
+3. *04centinela-bucle* Reflexiona sobre el uso de los centinelas. Desde 
 	el punto de vista de la programación, responde:	¿Qué es un centinela?
 
 	
@@ -98,12 +98,16 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ~~~
 
-4. *04bandera-bucle.c* Reflexiona sobre las siguientes afirmaciones: Una bandera...
+4. *05bandera-bucle.c* Reflexiona sobre las siguientes afirmaciones: Una bandera...
 
 	a.[ ] no es un indicador.
+
 	b.[X] es un indicador.
+
 	c.[ ] no es bandera.
+
 	d.[ ] es un parámetro de iteración.
+
 	e.[ ] es una variables.
 
 5. *05ques-ope.c* 
@@ -142,94 +146,6 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 ~~~
 	
 
-6. *06if_anidado.c*
-
-	a. Realiza un programa que  informe si el caracter introducido es o no un número.
-
-
-	b. Discute si la respuesta elegida es correcta:
-
-	-[ ] 
-	```C
-	if(condicion1) 
-	{
-   // las sentencias que se ejecutaran si la condicion1
-   // es cierta
-	}
-	else if(condicion2) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //es falsa y la expresion2 es verdadera
-	}
-	else if(condicion3) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //y la expresion2 son verdaderas, y la condicion3 es 
-   //verdadera
-	}
-	...
-	else 
-	{
-   //si todas las declaraciones anteriores son falsas
-	}
-	```
-	-[ ] 
-	```C
-	if(condicion1) 
-	{
-   // las sentencias que se ejecutaran si la condicion1
-   // es cierta
-	}
-	else if(condicion2) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //es falsa y la expresion2 es verdadera
-	}
-	else if(condicion3) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //y la expresion2 son falsas, y la condicion3 es 
-   //verdadera
-	}
-	...
-	else 
-	{
-   //si todas las declaraciones anteriores son verdaderas
-	}
-	```
-
-	-[X] 
-	```C
-	if(condicion1) 
-	{
-   // las sentencias que se ejecutaran si la condicion1
-   // es cierta
-	}
-	else if(condicion2) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //es falsa y la expresion2 es verdadera
-	}
-	else if(condicion3) 
-	{
-   //las sentencias que se ejecutaran si la condicion1
-   //y la expresion2 son falsas, y la condicion3 es 
-   //verdadera
-	}
-	...
-	else 
-	{
-   //si todas las declaraciones anteriores son falsas
-	}
-	```
-
-7. *07if_bucle.c* 
-	- Cambia break por continue y observa lo que sucede.
-	- Descubre cómo operan los símbolos && y ||.
-	- Escribe un código que tome un letra en minúscula (mayúscula) 
-	y regrese su mayúscula (minúscula). Además debes considerar que 
-	el usuario puede incluir números, por lo que debes incluir qué 
-	hará tu programa si el usuario escribe un carácter.
 
 8. *08for_bucle* 
 	- Modifica el código para que la salida sea:
