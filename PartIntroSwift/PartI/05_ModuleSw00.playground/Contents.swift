@@ -2,6 +2,5 @@
 // Recuerda documentar tus codigos
 import UIKit
 
-let today = Date()
-
+var today = Date()
 print(today)

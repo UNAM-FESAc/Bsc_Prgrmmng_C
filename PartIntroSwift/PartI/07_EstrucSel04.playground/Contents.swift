@@ -1,11 +1,11 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
-
-let a = 10
-let b = 3
-
-if a<=b{
-    print("✅")
-}else {
-    print("❌")
-}
+var currentLevel:Int = 0, finalLevel:Int = 5
+let gameCompleted = true
+repeat{
+if gameCompleted{
+print("Has pasado al nivel \(currentLevel)")
+        currentLevel += 1
+    }
+}while(currentLevel <= finalLevel)
+print("Terminó")
