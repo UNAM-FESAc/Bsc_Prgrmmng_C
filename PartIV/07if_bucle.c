@@ -18,7 +18,6 @@ int main()
    {
       printf( "Introduzca un numero entero (no presiones el cero): " );
       scanf( "%d", &n );
-
       if ( n == 0 )
       {
          printf( "ERROR: El cero es su mismo opuesto.\n" );
@@ -31,6 +30,5 @@ int main()
    } while ( n >= -10 && n <= 10 );
 
    printf( "Suma: %d\n", a );
-
    return 0;
 }
