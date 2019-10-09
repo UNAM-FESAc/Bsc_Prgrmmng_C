@@ -270,7 +270,7 @@ P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN
 ### Ejercicios Especiales<a name="ejerciciosLaboratorios"></a>
 
 1. Escribe un código que evalúe la `x` y te calcule `f(x)`
-o $x$ y $f(x)$
+o $x$ y $f(x)=x^3+2x$
 
 x	|$$f(x)=x^3+2x$$	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$	
 -------|-------------|-----------------|---------------
