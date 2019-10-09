@@ -317,8 +317,8 @@ el usuario introduce los caracteres y el programa muestra:
 
 vocal 	| número | carácter
 -------|-------------|----------------
-a |  |
-| 2 |*
+a | 0 |
+e |  |*
 |  2 |
 
 
