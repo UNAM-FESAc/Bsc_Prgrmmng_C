@@ -288,7 +288,7 @@ x	|`f(x)=(x^3-x/3-1)/2`
 2. Escribe un código que evalúe la `x` y te calcule `f(x)`, 
 `g(x)` y `h(x)`
 
-x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$	
+x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| `h(x)=\sin(x)-\sin^2(x)+x^(1/2)`	
 -------|-------------|-----------------|---------------
 -10.0	| 		|  | 
 -9.5	| 		|  | 
@@ -297,10 +297,12 @@ x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$
 -8.0    |  		|  |
 0      | 	0	| -1 | 
 
+Note que `-10.0<=x<=10.0`.
+
 3. Escriba un código que calcule las tablas de multiplicar  del 1 al 12.
 
 4. Reproduzca 10 códigos de la lista que aparece en:
-[link](https://www.w3resource.com/c-programming-exercises/for-loop/index.php]).
+[link](https://www.w3resource.com/c-programming-exercises/for-loop/index.php).
 
 5. Escriba un programa que realice la suma 
 de números mientras el usuario no presiona introduzca un carácter especial. Puede usar un _do-while_.
@@ -346,7 +348,7 @@ mayores a 15 y en la otra columna menores de 15 años.
 [link](https://c-for-dummies.com/begc4d/exercises/), explíquelos y colóquelos en su repositorio.
 
 ### Referencias<a name="referencias"></a>
-1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
+1. Lenguaje C [link](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
 
 #### [Volver al inicio](#LabEstrucDeControl)
 
