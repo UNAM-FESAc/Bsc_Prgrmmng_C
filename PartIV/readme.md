@@ -210,11 +210,11 @@ Discute tu solución. Revisa los otros códigos del bloque *09for_bucle01.c*-*09
 	
 Producto	|	Suma	|Resta		|División	
 ----------------|---------------|---------------|---------------
-6 x  1 =  6.0	| 6 +  1 =  7.0	| 6 -  1 = -5.0	| 6 /  1 =  0.2
-6 x  2 = 12.0	| 6 +  2 =  8.0	| 6 -  2 = -4.0	| 6 /  2 =  0.3
-6 x  3 = 18.0	| 6 +  3 =  9.0	| 6 -  3 = -3.0	| 6 /  3 =  0.5
-6 x  4 = 24.0	| 6 +  4 = 10.0	| 6 -  4 = -2.0	| 6 /  4 =  0.7
-6 x  5 = 30.0	| 6 +  5 = 11.0	| 6 -  5 = -1.0	| 6 /  5 =  0.8
+6 x  1 =  6.0	| 6 +  1 =  7.0	| 6 -  1 = 5.0	| 6 /  1 =  6.0
+6 x  2 = 12.0	| 6 +  2 =  8.0	| 6 -  2 = 4.0	| 6 /  2 =  3.0
+6 x  3 = 18.0	| 6 +  3 =  9.0	| 6 -  3 = 3.0	| 6 /  3 =  2.0
+6 x  4 = 24.0	| 6 +  4 = 10.0	| 6 -  4 = 2.0	| 6 /  4 =  1.5
+6 x  5 = 30.0	| 6 +  5 = 11.0	| 6 -  5 = 1.0	| 6 /  5 = 1.2 
 
 
 9. *11for-anidado.c* Revisa detalladamente la siguiente información y confirma cuál aseveración 
@@ -272,6 +272,12 @@ P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN
 1. Escribe un código que evalúe la `x` y te calcule `f(x)`
 o $x$ y $f(x)$
 
+x	|$$f(x)=x^3+2x$$	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$	
+-------|-------------|-----------------|---------------
+-10	| 		|  | 
+-9	| 		|  | 
+-8     |  		|  |
+0      | 	0	| -1 | 
 
 
 ### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
