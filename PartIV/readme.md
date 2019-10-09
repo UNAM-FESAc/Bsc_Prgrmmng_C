@@ -270,25 +270,42 @@ P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN
 ### Ejercicios Especiales<a name="ejerciciosLaboratorios"></a>
 
 1. Escribe un código que evalúe la `x` y te calcule `f(x)`
-o $x$ y $f(x)=x^3+2x$
 
-x	|$$f(x)=x^3+2x$$	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$	
+x	|`f(x)=(x^3-x/3-1)/2`	
+-------|-------------
+-5	| 		   
+-4	| 		   
+-3     |  		
+-2     | 	 
+-1     | 	 
+0     | 	-0.5 
+1     | 	 
+2     | 	 
+3     | 	 
+4     | 	 
+5     | 	 
+
+2. Escribe un código que evalúe la `x` y te calcule `f(x)`, 
+`g(x)` y `h(x)`
+
+x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$	
 -------|-------------|-----------------|---------------
--10	| 		|  | 
--9	| 		|  | 
--8     |  		|  |
+-10.0	| 		|  | 
+-9.5	| 		|  | 
+-9.0	| 		|  | 
+-8.5    |  		|  |
+-8.0    |  		|  |
 0      | 	0	| -1 | 
 
-```LaTeX 
-x^2
-$x^2$
-$$x^2$$
-```
-```latex  
-x^2`
-$x^2`$ y 
-$$x^2`$$
-```
+3. Escriba un código que calcule las tablas de multiplicar  del 1 al 12.
+
+4. Reproduzca 10 códigos de la lista que aparece en:
+[link](https://www.w3resource.com/c-programming-exercises/for-loop/index.php]).
+
+5. Escriba un programa que realice la suma 
+de números mientras el usuario no presiona introduzca un carácter especial. Puede usar un _do-while_.
+
+6. Escribe un código que realiza una tarea en el que implemente una estructura _while_
 
 ### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
 
@@ -310,6 +327,23 @@ $$x^2`$$
 	*  * ***  *  * *  *  * 
 	**** *  * ***  **** ****
 ~~~
+
+
+5. Cree un programa que muestre los primeros cien números primos.
+
+6. Cree un programa que tome un cadena de números y los invierta; es decir, 10283 y muestre 38201.
+
+7. Escriba un programa en la que el usuario escriba 
+la función y la evalúe para mostrar los 
+de la variable y la función; es decir, `x` y `f(x)`.
+
+8. Escriba un programa que tome los datos de 5 personas: 
+nombre, peso y edad; y muestre en la salida dos grupos 
+de personas (en dos columnas): 
+mayores a 15 y en la otra columna menores de 15 años.
+
+9. Seleccione 5 ejercicios de cada capítulo del sitio: 
+[link](https://c-for-dummies.com/begc4d/exercises/), explíquelos y colóquelos en su repositorio.
 
 ### Referencias<a name="referencias"></a>
 1. Lenguaje C [:link:](http://www.carlospes.com/curso_de_lenguaje_c/04_01_instruccion_break.php)
