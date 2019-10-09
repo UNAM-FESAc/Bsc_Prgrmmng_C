@@ -280,6 +280,7 @@ x	|$$f(x)=x^3+2x$$	    |`g(x)=x^3-2x^2-1`| $h(x)=\sin(x)-\sin^2(x)+\sqrt{x}$
 0      | 	0	| -1 | 
 
 `LaTeX x^2`
+`latex x^2`
 
 ### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
 
