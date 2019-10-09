@@ -8,8 +8,9 @@ En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
-3. [Ejercicios especiales](#ejerciciosEspeciales)
-4. [Referencias](#referencias)
+3. [Ejercicios de Laboratorio](#ejerciciosLaboratorios)
+4. [Ejercicios especiales](#ejerciciosEspeciales)
+5. [Referencias](#referencias)
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
@@ -265,6 +266,11 @@ P4	|	|n = 6	|	|n = 10	| n = 12|	|n = 19	| 	|n = 24	| n = 27
 P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|	
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
+
+### Ejercicios Especiales<a name="ejerciciosLaboratorios"></a>
+
+1. Escribe un código que evalúe la `x` y te calcule `f(x)`
+o $x$ y $f(x)$
 
 
 
