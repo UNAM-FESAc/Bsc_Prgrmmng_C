@@ -315,11 +315,11 @@ caracteres. Usa una estructura de control iterativa.
 8. Implementa  un código que tome caracteres y los clasifique  en una tabla; es decir: 
 el usuario introduce los caracteres y el programa muestra:
 
-vocal 	| número | carácter	
+vocal 	| número | carácter
 -------|-------------|----------------
-a|  |
-  | 2 |	*	
-  |  2 |  		
+a |  |
+| 2 |*
+|  2 |
 
 
 
