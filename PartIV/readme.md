@@ -309,6 +309,20 @@ de números mientras el usuario no presiona introduzca un carácter especial. Pu
 
 6. Escribe un código que realiza una tarea en el que implemente una estructura _while_
 
+7. Implementa un código en el que se muestre una cadena 
+caracteres. Usa una estructura de control iterativa. 
+
+8. Implementa  un código que tome caracteres y los clasifique  en una tabla; es decir: 
+el usuario introduce los caracteres y el programa muestra:
+
+vocal 	| número | carácter	
+-------|-------------|----------------
+a|  | 	
+  | 2 | 		
+  |  | * 		
+
+
+
 ### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
 
 1. Implementa un covertidor de temperatura: usa una estructura de control iterativa _for_.
