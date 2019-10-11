@@ -43,9 +43,8 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 7. Realizar la lectura del documento [Link](https://www.dropbox.com/s/60kkj1tauze4zqy/07act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
+
 8. Realizar la lectura del documento [Link](https://www.dropbox.com/s/3qgb7kou4lfihig/08act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
-
-
 
 
 
