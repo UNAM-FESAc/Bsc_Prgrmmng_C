@@ -4,14 +4,11 @@
 
 #include <stdio.h>
 
-
 int max(float x, float y);
-
 
 int main(){
 
 int m, n;
-
 
 do{
 
@@ -25,8 +22,8 @@ printf("\tmaximo valor entre %d y %d es %d\n", m, n, max(m, n));
 
 
 return 0;
-}
 
+}
 
 
 
@@ -36,7 +33,6 @@ if(x < y){
 }else{
 	return x;
 }
-
 }
 
 
