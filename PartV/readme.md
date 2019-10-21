@@ -77,9 +77,9 @@ y stdin es el nombre del dispositivo estandar de entrada.
 ### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
 
 1. To find all prime numbers between two integers, checkPrimeNumber() function is created. 
-This function checks whether a number is prime or not. Use the Ref. 1 from (#referencias).
+This function checks whether a number is prime or not. Use the Ref. 1 from references section.
 
-2. Realize the whole of exercises given in Ref. 2-4 from (#referencias).
+2. Realize the whole of exercises given in Ref. 2-4 from references section.
 
 
 ### Referencias<a name="referencias"></a>
