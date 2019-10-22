@@ -59,8 +59,8 @@ programming.
 
 We extend the invitation to the seminar:
 
-![width='40%'](figs/CTIM_2019_I.jpeg)
-**Figure 1**: CTIM seminar 2019 I. 
+![width='40%'](figs/QuantaCalaverita.jpeg)
+**Figure 1**: Quanta Calaverita 2019. 
 
 <!--
 \centering

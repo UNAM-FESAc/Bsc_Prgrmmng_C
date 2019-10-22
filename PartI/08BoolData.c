@@ -5,12 +5,13 @@
 #include <stdbool.h>
 int main()
 {
-    int p=4;
+    int p=3;
     bool isEven = true;
+puts("1 = true and 0 = false\n\n");
 if(p==2){
-    printf("p es Par\n");
+    printf("p=%i es Par %i\n",p ,isEven);
 	}else{
-    printf("p es Impar\n");
+    printf("p=%i es Impar %i\n",p ,isEven);
 	}
     return 0;
 }
