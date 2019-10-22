@@ -59,7 +59,7 @@ programming.
 
 We extend the invitation to the seminar:
 
-![width='40%'](figs/QuantaCalaverita.jpeg)
+![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 
 
 <!--
