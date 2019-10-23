@@ -37,19 +37,30 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 	- acepte cualquier valor numérico de entrada.
 	- tome tres números y los organice de forma ascendente.
 
-3. *03funciones_main.c* y *04funciones_sec.c* Escribe los códigos para que...
+3. *03funciones_main.c* y *03funciones_sec.c* Escribe los códigos para que...
 	- Realicen las cuatro operaciones aritméticas básicas e imprima la salida.
 	- Ejecute el código y que se interrumpa cuando ingresa la letra q.
 
-4. *05funciones.c* Implementa un for anidado para que imprima las tablas de multiplicar.
+4. *04main.c*--*04support.c* Implementa un for anidado para que imprima las tablas de multiplicar. 
+	- Usa funciones de biblioteca, 
+	- Funciones creadas por el programador,
+	- Implementa información para el usuario: mensajes,
+	instrucciones (datos de tipo char); 
+	de tal forma que el usuario esté informado 
+	de lo que realiza el código y qué puede datos puede modificar.
+	-  Implementa la declaración extern con diferentes tipos 
+	de datos. Crea al menos cuatro (4) archivos externos.
 
 5. *06funciones-argumentos.c* y *07funciones-argumentos.c* Realiza los siguientes ejercicios:
 	- Implementa cinco funciones en línea y posteriormente, 
 	defínelas como funciones creadas por el usuario.
-	- Escribe los programas que calculen el volúmen de tres  objetos 
-	como función en línea y como función generada por el usuario.
-
-
+	- Escribe los programas para que calculen el volumen 
+	de tres  objetos  como función en línea y 
+	como función generada por el programador.
+	- Crea un código que tome un texto y convierta cada 
+	primer letra en su opuesta; es decir de mayúscula a minúscula 
+	o de minúscula a mayúscula.
+   
 6. *08funciones-bibliote.c* Realiza las siguientes prácticas:
 	- Ejecuta el programa e introduce otros caracteres para observar lo que sucede.
 	- Crear un cuestionario de 10 preguntas. Al final debe mostrarse un párrafo 
@@ -58,10 +69,9 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 7. *09funciones-bibliote.c*, *10funciones-bibliote.c*, *11funciones-bibliote.c* y 
 	*12funciones-bibliote.c* 
 	Crea los siguientes programas:
-	- Investiga e implementa una funcion srand(semilla) y realiza 
-	un programa que use funciones (de biblioteca, implementadas por el usuario y matemáticas) 
-	para obtener la media aritmética. x_i f(x_i) y la x_media_aritmética.
-
+	- Crea un programa para que genere letras (alfanuméricos) al azar.
+	- Crea un programa que genere texto (cadenas de carácteres) al azar.
+	
 ~~~
 La funcion fgets puede implementarse para tomar una entrada de caracteres de la 
 entrada. En este ejemplo, cadena es el nombre del arreglo de caracteres, 
@@ -81,6 +91,14 @@ This function checks whether a number is prime or not. Use the Ref. 1 from refer
 
 2. Realize the whole of exercises given in Ref. 2-4 from references section.
 
+3. Investiga e implementa una funcion srand(semilla) y realiza 
+	un programa que use funciones (de biblioteca, implementadas por el usuario 
+	y matemáticas) para obtener la media aritmética de un conjunto de valores 
+	generados (pseudo) aleatorios. 
+	x_i f(x_i) y la x_media_aritmética.
+
+4. Investiga sobre las funciones de biblioteca para manejo de archivos; e.g.: 
+fprintf(), fscanf(), etc.
 
 ### Referencias<a name="referencias"></a>
 

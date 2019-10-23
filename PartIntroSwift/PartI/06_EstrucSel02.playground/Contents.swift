@@ -2,7 +2,7 @@
 // Recuerda documentar tus codigos
 // https://www.programiz.com/swift-programming/switch-statement
 // https://www.avanderlee.com/swift/loops-swift/
-let programmingLanguage = (name: "go", version: 10)
+let programmingLanguage = (name: "Swift", version: 10)
 switch programmingLanguage {
 case (let name,let version) where (version < 0 && name.count < 0) :
     print("Invalid input")
