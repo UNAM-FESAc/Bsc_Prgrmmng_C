@@ -6,10 +6,14 @@ general al concepto de apuntadores.
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
+
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
-3. [Referencias](#referencias)
+3. [Ejercicios de Laboratorio](#ejerciciosLaboratorios)
+4. [Ejercicios especiales](#ejerciciosEspeciales)
+5. [Referencias](#referencias)
+
 
 ### Informe de laboratorio<a name="InfLabPDF"></a>
 
@@ -68,6 +72,25 @@ y stdin es el nombre del dispositivo estandar de entrada.
 
 8. *12paso-copia.c*, *13paso-referencia.c* y *14uso-apuntadores.c* Realiza un pseudocódigo de 
 	cada uno de los programas de este enunciado.
+
+
+### Ejercicios Especiales<a name="ejerciciosEspeciales"></a>
+
+1. To find all prime numbers between two integers, checkPrimeNumber() function is created. 
+This function checks whether a number is prime or not. Use the Ref. 1 from references section.
+
+2. Realize the whole of exercises given in Ref. 2-4 from references section.
+
+
+### Referencias<a name="referencias"></a>
+
+1. https://www.programiz.com/c-programming/examples/prime-interval-function
+
+2. https://fresh2refresh.com/c-programming/c-function/
+
+3. https://beginnersbook.com/2014/01/c-functions-examples/
+
+4. https://www.tutorialspoint.com/cprogramming/c_functions.htm
 
 #### [Volver al inicio](#LabFunciones)
 

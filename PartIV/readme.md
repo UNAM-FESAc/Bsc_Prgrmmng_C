@@ -267,7 +267,7 @@ P5	|	|	|Bucle j| 	|	|	|Bucle j|	|	|
 P6	|	|	|	|	|Bucle i|	|	|	| 	|FIN	
 
 
-### Ejercicios Especiales<a name="ejerciciosLaboratorios"></a>
+### Ejercicios de Laboratorio<a name="ejerciciosLaboratorios"></a>
 
 1. Escribe un código que evalúe la `x` y te calcule `f(x)`
 
@@ -288,7 +288,7 @@ x	|`f(x)=(x^3-x/3-1)/2`
 2. Escribe un código que evalúe la `x` y te calcule `f(x)`, 
 `g(x)` y `h(x)`
 
-x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| `h(x)=\sin(x)-\sin^2(x)+x^(1/2)`	
+x	|`f(x)=x^3+2x`	    |`g(x)=x^3-2x^2-1`| `h(x)=sin(x)-sin^2(x)+x^(1/2)`	
 -------|-------------|-----------------|---------------
 -10.0	| 		|  | 
 -9.5	| 		|  | 

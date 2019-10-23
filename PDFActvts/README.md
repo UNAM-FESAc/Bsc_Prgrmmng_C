@@ -39,6 +39,15 @@ tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 5. Realizar la lectura del documento [Link](https://www.dropbox.com/s/rojkyc5nxu1cshz/05act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
 
 
+6. Realizar la lectura del documento [Link](https://www.dropbox.com/s/8jsnyua9sqff1oq/06act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
+
+7. Realizar la lectura del documento [Link](https://www.dropbox.com/s/60kkj1tauze4zqy/07act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
+
+
+8. Realizar la lectura del documento [Link](https://www.dropbox.com/s/3qgb7kou4lfihig/08act-prgrmmng.pdf?dl=0). Realiza tu informe y colócalo en tu repositorio.
+
+
+
 <!---
 *06Ex_int_exercise.c* Modifica el archivo
 [(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
