@@ -57,7 +57,7 @@ programming.
 
 ## 4. Activities <a name="activities"></a>
 
-We extend the invitation to the seminar:
+We extend the invitation to...:
 
 ![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 
