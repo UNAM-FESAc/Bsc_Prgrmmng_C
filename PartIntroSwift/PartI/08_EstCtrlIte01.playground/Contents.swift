@@ -1,8 +1,9 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-var i = -10
-while i <= 5{
+var i:Float32 = -4.1
+
+while i<=5{
+    print("Hola mundo \(i)");
     i+=2;
-    print("\(i)");
 }

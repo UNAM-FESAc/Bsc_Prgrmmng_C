@@ -1,13 +1,17 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-let a = 10
-let b = 3
-let ms1:String="Bueno "
-let ms2:String="Malo "
+let MaxVideoLength = 5
+let OptVideoLength = 3
+let MinVideoLength = 1
+let RealLenght = 6
 
-if (a<=b){
-    print(ms1+"\(a)<\(b) ✅")
-}else {
-    print(ms2+"\(a) > \(b) ❌")
+if (RealLenght>=MaxVideoLength){
+    print("Muy largo  😣")
 }
+else if (RealLenght<=MaxVideoLength&&RealLenght>=OptVideoLength){
+    print("Medio  😮")
+}else{
+    print("Muy bien 😁")
+}
+

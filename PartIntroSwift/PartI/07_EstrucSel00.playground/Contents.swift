@@ -1,4 +1,8 @@
+
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
-var a:Int = 2; var b:Int = 3;
-print(a,"+" ,b, "=",a+b)
+
+let a:Int = 20
+let b:Int = 30
+
+if (a>=b){print("y")}else{print("n")}
