@@ -1,6 +1,5 @@
-/*
-Programa para implementar un arreglo
-*/
+/* ********************* TEXTO SIN ACENTOS *********************/
+// Recuerda documentar tus codigos
 
 
 #include <stdio.h>				// no requiere biblioteca especial
