@@ -1,6 +1,9 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-for k in stride(from: 10, through: 1, by: -2){
-    print("hola", k, k * 2, k * k)
+var i:Float = -4.1
+
+while (i<=5){
+    print("Hola mundo \(i)");
+    i+=2;
 }

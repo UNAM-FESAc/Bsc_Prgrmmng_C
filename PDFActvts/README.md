@@ -20,7 +20,7 @@ Debes realizar un informe de laboratorio que contenga información sobre la
 lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
 esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+[PDF](https://www.dropbox.com/s/6my2oi8ga47bjuk/gral-templete.pdf?dl=0). 
 Este formato puede usarse para la entrega de diferentes reportes, incluso 
 tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 

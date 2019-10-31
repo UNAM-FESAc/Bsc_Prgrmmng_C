@@ -15,7 +15,7 @@ let square = UIView(frame: smallFrame)
 liveView.addSubview(square)
 
 
-UIView.animate(withDuration : 1.0){
+UIView.animate(withDuration : 3.0){
     square.backgroundColor = .blue
     
     let scaleTransf = CGAffineTransform(scaleX: 3.0, y: 3.0)

@@ -1,9 +1,9 @@
 /* ********************* TEXTO SIN ACENTOS *********************/
 // Recuerda documentar tus codigos
 
-var fruits = ["banana","orange","cherry"]
+var fruits = ["banana","orange","cherry", "Watermelon"]
 var animals = ["monkey","cow","dog"]
-var numbers = [1,10,100]
+var numbers = [1, 10, 100]
 
 
 // #1
